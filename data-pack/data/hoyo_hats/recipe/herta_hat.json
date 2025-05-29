@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 3 ",
+    "424",
+    "111"
+  ],
+  "key": {
+    "1": [
+      "minecraft:black_wool"
+    ],
+    "2": [
+      "minecraft:diamond"
+    ],
+    "3": [
+      "minecraft:purple_wool"
+    ],
+    "4": [
+      "minecraft:allium"
+    ]
+  },
+  "result": {
+    "id": "minecraft:command_block",
+    "components": {
+      "minecraft:item_model": "hoyo_hats:the_herta_hat",
+      "minecraft:item_name": "[{'text':'The Herta`s Hat'}]",
+      "lore": [
+          "[{'text':'A hat that belongs to the genius society`s genius.'}]"
+      ],
+      "minecraft:equippable": {
+        "slot": "head"
+      }
+    },
+    "count": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 3 ",
+    "424",
+    "111"
+  ],
+  "key": {
+    "1": [
+      "minecraft:blue_wool"
+    ],
+    "2": [
+      "minecraft:lapis_block"
+    ],
+    "3": [
+      "minecraft:gold_nugget"
+    ],
+    "4": [
+      "minecraft:gold_ingot"
+    ]
+  },
+  "result": {
+    "id": "minecraft:command_block",
+    "components": {
+      "minecraft:item_model": "hoyo_hats:furina_hat",
+      "minecraft:item_name": "[{'text':'Furina`s Hat'}]",
+      "lore": [
+          "[{'text':'A belonging of the hydro archon herself.'}]"
+      ],
+      "minecraft:equippable": {
+        "slot": "head"
+      }
+    },
+    "count": 1
+  }
+}

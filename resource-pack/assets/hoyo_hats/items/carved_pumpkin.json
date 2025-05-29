@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/carved_pumpkin"
+    },
+    "cases": [
+        {
+        "when": "furinahat",
+        "model": {
+          "type": "model",
+          "model": "furina:item/furina_hat"
+        }
+      }
+    ]
+  }
+}
