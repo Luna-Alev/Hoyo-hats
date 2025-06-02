@@ -6,5 +6,6 @@ Hats I've made so far:
 
 ![Furina](images/furina.png)
 ![The Herta](images/the_herta.png)
+![Sunday](images/sunday.png)
 
 I might add some functionality to these hats in the future.
